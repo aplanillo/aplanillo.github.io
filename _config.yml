@@ -94,9 +94,9 @@ footer:
   #    url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # _tutorials
   - scope:
-      path: "_tutorials"
+      path: ""
       type: posts
     values:
       layout: single
@@ -105,6 +105,8 @@ defaults:
       #comments: true
       #share: true
       #related: true
+      show_date: true
+      date_format: "%Y-%m-%d"
       read_time: false
       comments: false
       share: false
