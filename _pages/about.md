@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 order: 1
 header:
     overlay_image: assets/images/DSC_0221.jpg
