@@ -63,7 +63,7 @@ author:
   bio    : "Ecological modeller, especialized in terrestrial and spatial ecology, with emphasis in human disturbance and large carnivores"
   links:
     - label: "EBD-CSIC, ES"
-      icon: "fab fa-fw fa-map-marker"
+      icon: "fab fa-fw fa-map-pin"
       url: "https://www.ebd.csic.es/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
