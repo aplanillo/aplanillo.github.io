@@ -121,18 +121,11 @@ defaults:
   # _tutorials
   - scope:
       path: ""
-      type: posts
-      values:
+      type: portfolio
+    values:
       layout: single
-      author_profile: true
-      #read_time: true
-      #comments: true
-      #share: true
-      #related: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
+      author_profile: false
+      share: true
   
 
 
