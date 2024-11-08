@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aplanillo"
     - label: "e-mail"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:aimara.planillo@gmail.com"
     
 footer:
