@@ -2,7 +2,7 @@
 title: "Aimara Planillo"
 layout: single
 author_profile: true
-excerpt: "Terrestrial ecologist, modeller"
+excerpt: "Modeller for population dynamics, spatial data and carnivores, among others..."
 header:
     overlay_image: assets/images/DSC_0221.jpg
     overlay_filter: 0.5
