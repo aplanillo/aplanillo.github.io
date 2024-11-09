@@ -1,5 +1,5 @@
 ---
-title: "Extract data from Rasters"
+title: "Extracting data from Rasters"
 classes: wide
 #categories:
 #  - Blog
@@ -10,10 +10,9 @@ tags:
   - spatial analysis
 ---
 
-## Extracting data from rasters
+To extract data from raster data in R we are going to use a point layer and a raster.
 
-We are going to use the two R libraries
-
+We start by loading the necesary libraries:
 ```r
 library(sf)
 library(terra)
