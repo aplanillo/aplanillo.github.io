@@ -16,9 +16,12 @@
 title: Aimara Planillo
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Spatial Ecology of Large Carnivores: Species Distribution Models & Interactions, 
+  Ecologist, large carnivores, spatial ecology, spatial data, agent-based models, 
+  individual-based models, wildlife conservation, predator-prey dynamics, habitat use, 
+  conservation ecology, biodiversity, ecological research, ecological modeling, wildlife management, 
+  sustainability, mesocarnivores, species interactions
+
 #twitter_username: username
 github_username: aplanillo
 minimal_mistakes_skin: "dark"
@@ -65,7 +68,8 @@ plugins:
 author:
   name   : "Aimara Planillo, PhD"
   avatar : "/assets/images/AP_2022.jpg"
-  bio    : "Ecological modeller, especialized in terrestrial and spatial ecology, with emphasis in human disturbance and large carnivores"
+#  bio    : "Ecological modeller, especialized in terrestrial and spatial ecology, with special focus on human disturbance and large carnivores, using analysis of behaviour, distribution and agent based models"
+  bio    : "Ecological modeller specialized in terrestrial and spatial ecology, with a focus on how human disturbance affects large carnivores and other vertebrates. My work combines behavioral analysis, species distribution modelling, and agent-based models to understand and predict wildlife responses to environmental pressures. Through research and data-driven insights, I aim to support conservation strategies for vulnerable species."
   links:
     - label: "EBD-CSIC, ES"
       icon: "fas fa-fw fa-location-dot"
