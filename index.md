@@ -1,6 +1,7 @@
 ---
 title: "Aimara Planillo"
 layout: single
+classes: wide
 author_profile: true
 excerpt: "Modeller for species interactions, population dynamics and spatial data, among others..."
 header:
