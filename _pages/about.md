@@ -7,7 +7,7 @@ header:
     overlay_filter: 0.5
 ---
 
-My main research interest is to understand the effects of anthropogenic activities on terrestrial vertebrate populations, to improve their conservation in the present and future. 
+My main research interest is to understand the effects of anthropogenic activities on terrestrial vertebrate populations. Through research and data-driven insights, I aim to support conservation strategies for vulnerable species. 
 
 Mainly, I study species habitat use and distribution, interspecies interactions and spatial and temporal dynamics, predicting population responses to environmental change and human disturbance. In my research, I confront empirical data with ecological theory, using a modelling approach which allows me to explore mechanistic relationships and further understand wildlife responses at population and community levels. Thus, my research toolbox expans from (joint-) Species Distribution Models to Connectivity Analysis and Spatially-explicit Agent Based Models (se-ABM), as well as analysis of telemetry and GIS data.
 
