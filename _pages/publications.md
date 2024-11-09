@@ -50,11 +50,11 @@ Here is a list of my publications. Most of then should be Open Access, but if yo
 
 4.	Sánchez-González, B., **Planillo, A.**, Navarro-Castilla, Á., & Barja, I. (2018). The concentration of fear: mice’s behavioural and physiological stress responses to different degrees of predation risk. ***Science of Nature***, 105(1–2): 1–10. https://doi.org/10.1007/s00114-018-1540-6
 
-3.	**Planillo, A.**, Kramer-Schadt, S., & Malo, J. E. (2015). Transport infrastructure shapes foraging habitat in a raptor community. ***PLoS ONE***, 10(3): e0118604. https://doi.org/10.1371/journal.pone.0118604
+3. **Planillo, A.**, Kramer-Schadt, S., & Malo, J. E. (2015). Transport infrastructure shapes foraging habitat in a raptor community. ***PLoS ONE***, 10(3): e0118604. https://doi.org/10.1371/journal.pone.0118604
 
-2.	**Planillo, A.**, & Malo, J. E. (2013). Motorway verges: Paradise for prey species? A case study with the European rabbit. ***Mammalian Biology***, 78(3): 187–192. https://doi.org/10.1016/j.mambio.2012.11.001
+2. **Planillo, A.**, & Malo, J. E. (2013). Motorway verges: Paradise for prey species? A case study with the European rabbit. ***Mammalian Biology***, 78(3): 187–192. https://doi.org/10.1016/j.mambio.2012.11.001
 
-1.	Ruiz-Aizpurua, L., **Planillo, A.**, Carpio, A. J., Guerrero-Casado, J., & Tortosa, F. S. (2013). The use of faecal markers for the delimitation of the European rabbit’s social territories (Oryctolagus cuniculus L.). ***Acta Ethologica***, 16(3): 157–162. https://doi.org/10.1007/s10211-013-0146-4
+1. Ruiz-Aizpurua, L., **Planillo, A.**, Carpio, A. J., Guerrero-Casado, J., & Tortosa, F. S. (2013). The use of faecal markers for the delimitation of the European rabbit’s social territories (Oryctolagus cuniculus L.). ***Acta Ethologica***, 16(3): 157–162. https://doi.org/10.1007/s10211-013-0146-4
 {: reversed="reversed"}
 
 ## Non peer-reviewed:
@@ -64,22 +64,22 @@ Here is a list of my publications. Most of then should be Open Access, but if yo
 
 ## Reports:
 
-2.  Biersteker, L., **Planillo, A.**, Lammertsma, D. R., van der Sluis, T., Knauer, F., Kramer-Schadt, S., van der Grift, E. A., van Eupen, M., and Jansman, H. A. H. (2024).  "Habitatgeschiktheid voor de wolf in Nederland: een modelanalyse." Wageningen Environmental Research, 87 pp. https://doi.org/10.18174/654770 
+* Biersteker, L., **Planillo, A.**, Lammertsma, D. R., van der Sluis, T., Knauer, F., Kramer-Schadt, S., van der Grift, E. A., van Eupen, M., and Jansman, H. A. H. (2024).  "Habitatgeschiktheid voor de wolf in Nederland: een modelanalyse." Wageningen Environmental Research, 87 pp. https://doi.org/10.18174/654770 
 
-1.	Fernández-García, J. M., Gracianteparaluceta, A., & **Planillo, A.** (2012). Abundancia, Distribución Y Tendencia De Las Poblaciones De Aves Acuaticas Invernantes En La Comunidad Autónoma Del Pais Vasco. January. https://doi.org/10.13140/RG.2.2.28233.95842
-{: reversed="reversed"}
+* Fernández-García, J. M., Gracianteparaluceta, A., & **Planillo, A.** (2012). Abundancia, Distribución Y Tendencia De Las Poblaciones De Aves Acuaticas Invernantes En La Comunidad Autónoma Del Pais Vasco. January. https://doi.org/10.13140/RG.2.2.28233.95842
+
 
 ## Online Datasets:
 
-*   Planillo, A., Reinhardt, I., Kluth, G., Collet, S., Rolshausen, G., Nowak, C., Steyer, K., Ellwanger, G., & Kramer-Schadt, S. (2024). Habitat and density effects on the demography of an expanding wolf population in Central Europe. Dryad. https://doi.org/10.5061/DRYAD.DNCJSXM5M
+* Planillo, A., Reinhardt, I., Kluth, G., Collet, S., Rolshausen, G., Nowak, C., Steyer, K., Ellwanger, G., & Kramer-Schadt, S. (2024). Habitat and density effects on the demography of an expanding wolf population in Central Europe. Dryad. https://doi.org/10.5061/DRYAD.DNCJSXM5M
 
-*	Planillo, A., Wenzler-Meya, M., Reinhardt, I., Kluth, G., Michler, F.-U., Stier, N., Louvrier, J., Steyer, K., Gillich, B., Rieger, S., Knauer, F., Kuemmerle, T., & Kramer-Schadt, S. (2023). Understanding habitat selection of range-expanding populations of large carnivores: 20 years of grey wolves (Canis lupus) recolonizing Germany. Dryad. https://doi.org/10.5061/DRYAD.M63XSJ461
+* Planillo, A., Wenzler-Meya, M., Reinhardt, I., Kluth, G., Michler, F.-U., Stier, N., Louvrier, J., Steyer, K., Gillich, B., Rieger, S., Knauer, F., Kuemmerle, T., & Kramer-Schadt, S. (2023). Understanding habitat selection of range-expanding populations of large carnivores: 20 years of grey wolves (Canis lupus) recolonizing Germany. Dryad. https://doi.org/10.5061/DRYAD.M63XSJ461
 
-*	Naciri, M., Planillo, A., Gicquel, M., East, M. L., Hofer, H., Metzger, S., & Benhaiem, S. (2023). Data and code from: Three decades of wildlife-vehicle collisions in a protected area: main roads and long-distance commuting trips to migratory prey increase spotted hyena roadkills in the Serengeti. Zenodo. https://doi.org/10.5281/ZENODO.7628827
+* Naciri, M., Planillo, A., Gicquel, M., East, M. L., Hofer, H., Metzger, S., & Benhaiem, S. (2023). Data and code from: Three decades of wildlife-vehicle collisions in a protected area: main roads and long-distance commuting trips to migratory prey increase spotted hyena roadkills in the Serengeti. Zenodo. https://doi.org/10.5281/ZENODO.7628827
 
-*	Danabalan, R., Planillo, A., Butschkau, S., Deeg, S., Gras, P., Thion, C., Calvignac-Spencer, S., Kramer-Schadt, S., & Mazzoni, C. (2022). Comparison of mosquitoes and fly derived DNA as a tool for sampling vertebrate biodiversity in suburban forests in Berlin, Germany. Dryad. https://doi.org/10.5061/DRYAD.XSJ3TX9J8
+* Danabalan, R., Planillo, A., Butschkau, S., Deeg, S., Gras, P., Thion, C., Calvignac-Spencer, S., Kramer-Schadt, S., & Mazzoni, C. (2022). Comparison of mosquitoes and fly derived DNA as a tool for sampling vertebrate biodiversity in suburban forests in Berlin, Germany. Dryad. https://doi.org/10.5061/DRYAD.XSJ3TX9J8
 
-*	Planillo, A., & Malo, J. E. (2018). Data from: Infrastructure features outperform environmental variables explaining rabbit abundance around motorways. Dryad. https://doi.org/10.5061/DRYAD.C3TG3
+* Planillo, A., & Malo, J. E. (2018). Data from: Infrastructure features outperform environmental variables explaining rabbit abundance around motorways. Dryad. https://doi.org/10.5061/DRYAD.C3TG3
 
 
 
