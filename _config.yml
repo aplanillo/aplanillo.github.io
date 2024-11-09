@@ -56,7 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  
 author:
   name   : "Aimara Planillo, PhD"
   avatar : "/assets/images/AP_2022.jpg"
