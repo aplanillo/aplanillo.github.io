@@ -6,8 +6,6 @@ header:
     overlay_filter: 0.5
 ---
 
-# Publications
-
 Here is a list of my publications. Most of then should be Open Access, but if you are interested in any of them and can not find it, please contact me by email and I will send the pdf.
 
 ## Peer-reviewed publications:

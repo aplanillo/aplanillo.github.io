@@ -9,7 +9,7 @@ header:
 my research lines can be divided into:
 
 
-## | ![image-left](/assets/images/wolf-image.jpg){: .align-left width="50%"} | Large carnivore ecology |
+| ![image-left](/assets/images/wolf-image.jpg){: .align-left width="50%"} | Large carnivore ecology |
 
 Under construction...
 * | Wolf recolonization of Central Europe | ![image-right](/assets/images/wolf-image.jpg){: .align-right width="50%"} |
