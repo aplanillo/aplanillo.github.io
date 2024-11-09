@@ -1,10 +1,11 @@
 ---
-title: "Post: Test"
-categories:
-  - Blog
+title: "Extract data from Rasters"
+classes: wide
+#categories:
+#  - Blog
 tags:
   - tutorial
-  - code
+  - Rcode
   - GIS
   - spatial analysis
 ---
