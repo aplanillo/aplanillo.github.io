@@ -1,13 +1,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Publications"
-    url: /publications/
   #- title: "Post"
   #  url: /posts/
   - title: "Research"
     url: /research/
-  #- title: "Tags"
+  - title: "Publications"
+    url: /publications/  #- title: "Tags"
   #  url: /tags/
   - title: "Tutorials"
     url: /tutorials/
