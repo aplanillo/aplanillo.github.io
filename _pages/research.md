@@ -9,9 +9,10 @@ header:
 my research lines can be divided into:
 
 
-| ![image-right](/assets/images/wolf_image.jpg){: .align-right width="50%"} | ## Large carnivore ecology |
+## | ![image-left](/assets/images/wolf-image.jpg){: .align-left width="50%"} | Large carnivore ecology |
+
 Under construction...
-* | Wolf recolonization of Central Europe | ![image-right](/assets/images/wolf_image.jpg){: .align-right width="50%"} |
+* | Wolf recolonization of Central Europe | ![image-right](/assets/images/wolf-image.jpg){: .align-right width="50%"} |
 * Lynx activity analysis and human disturbance levels
 
 ## Spatial ecology
