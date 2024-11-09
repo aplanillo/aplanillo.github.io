@@ -69,7 +69,7 @@ author:
   name   : "Aimara Planillo, PhD"
   avatar : "/assets/images/AP_2022.jpg"
 #  bio    : "Ecological modeller, especialized in terrestrial and spatial ecology, with special focus on human disturbance and large carnivores, using analysis of behaviour, distribution and agent based models"
-  bio    : "Ecological modeller specialized in terrestrial and spatial ecology, with a focus on how human disturbance affects large carnivores and other vertebrates. My work combines behavioral analysis, species distribution modelling, and agent-based models to understand and predict wildlife responses to environmental pressures. Through research and data-driven insights, I aim to support conservation strategies for vulnerable species."
+  bio    : "Ecological modeller specialized in terrestrial and spatial ecology, with a focus on how human disturbance affects large carnivores and other vertebrates. My work combines behavioral analysis, species distribution modelling, and agent-based models to understand and predict wildlife responses to environmental pressures"
   links:
     - label: "EBD-CSIC, ES"
       icon: "fas fa-fw fa-location-dot"
