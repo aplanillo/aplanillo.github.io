@@ -1,9 +1,9 @@
 ---
 title: "About"
 last_modified_at: 2024-11-07T13:08:02-05:00
-categories:
-  - Blog
-  - Tutorials
+#categories:
+#  - Blog
+#  - Tutorials
 tags:
   - about
 ---
