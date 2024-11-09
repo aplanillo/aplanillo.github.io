@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aplanillo"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Aimara-Planillo"
     - label: "ORCID"  
       icon: "fab fa-fw fa-orcid"
