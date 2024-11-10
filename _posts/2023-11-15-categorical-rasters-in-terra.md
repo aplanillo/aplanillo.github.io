@@ -20,29 +20,23 @@ editor_options:
 ### values into a numerical values using terra package.
 
 Categorical rasters, such as land cover classes, can be tricky to deal
-with in R. Imagine you get a raster (in {terra} the object is called
-spatRaster) with categories.
+with in R. Imagine you get a raster (in <code>terra</code> the object is
+called spatRaster) with categories.
 
-In {terra}, those categories are stored as labels. Additionally, a
-raster layer can have multiple labelling columns, in a way that we can
-activate the column with the information we want at the moment.
-Furthermore, we might want to operate with our rasters, for which we may
-need numerical values.
+In <code>terra</code>, those categories are stored as labels.
+Additionally, a raster layer can have multiple labelling columns, in a
+way that we can activate the column with the information we want at the
+moment. Furthermore, we might want to operate with our rasters, for
+which we may need numerical values.
 
 First, we are going to see how to change or *activate* the labels to
 show in the categorical rasters. Then, we are going to see how to
 effectively transform this into numerical values.
 
-The {Terra} changed the way how to do this compared to the {raster}
-package. Here are some tricks.
+<code>terra<code> changed the way how to do this compared to
+<code>raster</code> package. Here are some tricks.
 
-### Load {terra} package
-
-``` r
-library(terra)
-```
-
-    ## terra 1.7.83
+### Load <code>terra</code> package
 
 ### Create example data
 
@@ -138,7 +132,8 @@ plot(ras_new_cat)
 <img src="/assets/images_tutorials/plot reclass table-1.png" style="display: block; margin: auto;" />
 
 If we want to go to the old labels, we just need to activate the old
-labels by indicating the column they are stored in {activeCat} function
+labels by indicating the column they are stored in
+<code>activeCat</code> function
 
 ``` r
 activeCat(ras_new_cat) <- 1
@@ -206,9 +201,9 @@ values(ras_new_cat_2)
 
 ### Make the raster numerical
 
-For this we need the function called {catalyze} and the column in the
-“master table” that actually has the values we want to use as numeric.
-We specify the column using the index parameter.
+For this we need the function called <code>catalyze</code> and the
+column in the “master table” that actually has the values we want to use
+as numeric. We specify the column using the index parameter.
 
 ``` r
 # this function activates our desired column of the spatRaster
