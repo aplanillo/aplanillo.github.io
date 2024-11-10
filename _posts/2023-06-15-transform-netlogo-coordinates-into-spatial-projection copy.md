@@ -9,4 +9,4 @@ tags:
   - spatial
 ---
 
-{% include 2023-06-15-transform-netlogo-coordinates-into-spatial-projection.html %}
+{% include transform-netlogo-coordinates-into-spatial-projection.html %}
