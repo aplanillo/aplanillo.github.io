@@ -5,7 +5,7 @@ tags:
   - spatial 
   - tutorial
   - Rcode 
-#date: 2023-06-15 / 2023-10-15
+#date: 2023-06-15
 output:
   md_document:
     variant: markdown_github
@@ -44,6 +44,9 @@ library(dplyr)
 library(sf)
 library(ggplot2)
 library(ggspatial)
+
+## for reproducibility
+set.seed(469)
 ```
 
 ## 1. Create data
@@ -80,12 +83,12 @@ head(turtle_variables)
 ```
 
     ##   who xcoord ycoord
-    ## 1   1     16     17
-    ## 2   2     32     54
-    ## 3   3     17     33
-    ## 4   4     34     13
-    ## 5   5     66     42
-    ## 6   6      7     65
+    ## 1   1     57     58
+    ## 2   2     13     59
+    ## 3   3     82     80
+    ## 4   4      6     83
+    ## 5   5     24     37
+    ## 6   6     93     40
 
 Now that we have our data, let’s extract the map coordinates as
 reference and transform the turtle ones. This process will work with any
@@ -124,12 +127,43 @@ turtle_sf <- st_as_sf(turtle_spatial,
 
 ## 4. Plot with ggplot2
 
-    ##         x       y  hs
-    ## 1 4541105 3266795 231
-    ## 2 4541115 3266795 344
-    ## 3 4541125 3266795 614
-    ## 4 4541135 3266795 980
-    ## 5 4541145 3266795 100
-    ## 6 4541155 3266795 586
+``` r
+## make myraster a dataframe
+map_df <- as.data.frame(myraster, xy = TRUE)
+names(map_df) <- c("x","y","hs")
+head(map_df)
+```
 
-<img src="/assets/images_tutorials/plot turtle ggplot-1.png" style="padding:2px; display: block; margin: auto;" />
+    ##         x       y  hs
+    ## 1 4541105 3266795 475
+    ## 2 4541115 3266795 689
+    ## 3 4541125 3266795 602
+    ## 4 4541135 3266795 881
+    ## 5 4541145 3266795 793
+    ## 6 4541155 3266795 247
+
+``` r
+## plot map with turtles on top
+plot_mymap <- ggplot() +
+  geom_tile(data = map_df, aes(x = x, y = y, fill = hs), alpha = 0.7) +
+  scale_fill_viridis_c(na.value = "transparent",
+                       name = "Habitat suitability") +
+  geom_sf(data = turtle_sf, col = "red") +
+  annotation_scale() +
+  annotation_north_arrow(location = "tr", 
+    pad_x = unit(0.2, "in"), pad_y = unit(0.2, "in"),
+    height = unit(0.8, "cm"),
+    width = unit(0.5, "cm")) +
+  ylab("latitude") +
+  xlab("longitude") +
+  theme_bw() +
+  theme(
+    plot.background = element_blank(),
+    plot.margin = unit(c(0.1, 0.1, 0.1, 0.1), "cm"),
+    
+  )
+
+plot_mymap
+```
+
+<img src="/assets/images_tutorials/plot turtle ggplot-1.png" style="padding: 1px; display: block; margin: auto;" />
