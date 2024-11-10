@@ -101,6 +101,9 @@ footer:
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
+    - label: "email"  
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:aimara.planillo@gmail.com"
 
 defaults:
   # _tutorials
@@ -129,15 +132,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-
+  
 
 category_archive:
   type: liquid
