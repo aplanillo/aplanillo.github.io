@@ -33,7 +33,7 @@ First, we are going to see how to change or *activate* the labels to
 show in the categorical rasters. Then, we are going to see how to
 effectively transform this into numerical values.
 
-<code>terra<code> changed the way how to do this compared to
+<code>terra</code> changed the way how to do this compared to
 <code>raster</code> package. Here are some tricks.
 
 ### Load <code>terra</code> package
