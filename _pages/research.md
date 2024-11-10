@@ -15,7 +15,7 @@ header:
 
 Population dynamics refers to the study of changes in population size, structure, and distribution over time, along with the factors that drive these changes. This field examines how birth rates, death rates, immigration, and emigration affect population growth and stability, and it’s foundational for understanding species survival and persistence. For large carnivores, population dynamics research is particularly important in informing conservation and management strategies. 
 
-| ![image-left](/assets/images/wolf-image.jpg){: .align-right width="50%"} | ![image-leftmid](/assets/images/wolf_move_eastgermany.gif){: .align-left width="50%"} | ![image-rightmid](/assets/images/hr_hfp_ind1.jpg){: .align-right width="50%"} | ![image-right](/assets/images/lynx-image.jpg){: .align-left width="50%"}|
+| ![image-left](/assets/images/wolf-image.jpg){: .align-right width="80%"} | ![image-leftmid](/assets/images/wolf_move_eastgermany.gif){: .align-left width="80%"} | ![image-rightmid](/assets/images/hr_hfp_ind1.jpg){: .align-right width="80%"} | ![image-right](/assets/images/lynx-image.jpg){: .align-left width="80%"}|
 
 
 ***Projects***
