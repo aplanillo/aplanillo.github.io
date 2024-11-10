@@ -132,5 +132,5 @@ turtle_sf <- st_as_sf(turtle_spatial,
     ## 5 4541145 3266795 100
     ## 6 4541155 3266795 586
 
-\<img src=“/assets/images_tutorials/plot turtle ggplot-1.png”
-“style=padding:2px” style=“display: block; margin: auto;” /\>
+<img src=“/assets/images_tutorials/plot turtle ggplot-1.png”
+“style=padding:2px” style=“display: block; margin: auto;” />
