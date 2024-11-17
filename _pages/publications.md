@@ -11,6 +11,8 @@ Here is a list of my publications. Most of then should be Open Access, but if yo
 ## Peer-reviewed publications:
 
 ### 2024
+Drenske, S., Louvrier, J., Grabow, M., Landgraf, C., Kramer-Schadt, S., **Planillo, A.** (2024). Human and predator presence shape diel activity of urban red squirrels. ***Frontiers in Ecology and Evolution***, 12: 1455142. https://doi.org/10.3389/fevo.2024.1455142
+
 Mugerwa, B., Niedballa, J., **Planillo, A.**, Sheil, D., Kramer-Schadt, S., & Wilting, A. (2024). Global disparity of camera trap research allocation and defaunation risk of terrestrial mammals. ***Remote Sensing in Ecology and Conservation***, 10: 121-136. https://doi.org/10.1002/rse2.360
 
 **Planillo, A.**, Reinhardt, I., Kluth, G., Collet, S., Rolshausen, G., Nowak, C., Steyer, K., Ellwanger, G., & Kramer‐Schadt, S. (2024). Habitat and density effects on the demography of an expanding wolf population in Central Europe. ***Wildlife Biology***,  e01246. https://doi.org/10.1002/wlb3.01246
