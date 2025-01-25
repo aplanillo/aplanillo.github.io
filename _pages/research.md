@@ -9,6 +9,18 @@ header:
 ## Research lines and projects 
 
 
+### Spatial Patterns and Movement Ecology
+
+* Connectivity, Species Distributions, Step Selection Function
+
+The way that vertebrates move through and occupy space is afected by environmental conditions and individuals characteristics. The interplay of both determine aspects as relevantas  habitat connectivity and species distribution. Furthermore, the movement of an individual changes across its live time, depending on its life status (juvenile, dispersing, breeding), making this topic a highly dynamic approach.
+
+***Projects***
+
+* NaturaConnect (joint on 2024-ongoing): Building a resilient ecological network of conserved areas across Europe for nature and people (Horizon Europe, ID 101060429). *Participant in WP6 and WP8*
+* Habitat selection and suitability for wolves in Germany (2020-2022). ‘Federal Documentation and Consultation Centre on Wolves’ (FKZ 3515 82 4100). *Participant*
+
+
 ### Population Ecology and Dynamics
 
 * Demography, Population Viability Analysis (PVA), Behaviour analysis, Habitat use
@@ -25,18 +37,6 @@ reference value for the favorable total population (2022-2023). Federal Agency f
 * Eurolynx Pager (2020-ongoing): Effects of human disturbance on lynx activity patterns at the European scale. *Lead: Aimara Planillo*
 
 
-### Spatial Patterns and Movement Ecology
-
-* Connectivity, Species Distributions, Step Selection Function
-
-The way that vertebrates move through and occupy space is afected by environmental conditions and individuals characteristics. The interplay of both determine aspects as relevantas  habitat connectivity and species distribution. Furthermore, the movement of an individual changes across its live time, depending on its life status (juvenile, dispersing, breeding), making this topic a highly dynamic approach.
-
-***Projects***
-
-* NaturaConnect (joint on 2024-ongoing): Building a resilient ecological network of conserved areas across Europe for nature and people (Horizon Europe, ID 101060429). *Participant in WP6 and WP8*
-* Habitat selection and suitability for wolves in Germany (2020-2022). ‘Federal Documentation and Consultation Centre on Wolves’ (FKZ 3515 82 4100). *Participant*
-
-
 ### Human Disturbance and Urban Ecology
 
 * Urban ecology, road ecology, anthropogenic impacts 
@@ -47,5 +47,4 @@ While urban and road ecology share many characteristics of more general ecology 
 
 * Bridging in Biodiversity Science (BIBS, joint in 2018-2021), German Federal Ministry of Education and Research, BMBF (01LC1501). *Synthesis postdoc, WP3*
 * CENIT – CDTI Project: “OASIS: Operación de Autopistas Seguras, Inteligentes y Sostenibles. Tarea 7.2: Nueva interpretación y estudio de las relaciones fauna/autopista”. (“Safe, Intelligent and Sustainable Highways. Task 7.2: new interpretation and study of wildlife/highway relationships”). (CENIT-2008 1016, 2008-2013). Ministerio de Ciencia e Innovación, Spain. *Participant*
-
 
