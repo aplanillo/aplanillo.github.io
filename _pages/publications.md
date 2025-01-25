@@ -10,7 +10,12 @@ Here is a list of my publications. Most of then should be Open Access, but if yo
 
 ## Peer-reviewed publications:
 
+### 2025
+Scholz, C., Teige, T., Djoumessi, K.P.N., Buchholz, S., Pritsch, F., **Planillo, A.**, & Voigt, C.C. (2025). Dietary diversification of an insect predator along an urban-rural gradient. ***Landscape and Urban Planning***, 256: 105273. https://doi.org/10.1016/j.landurbplan.2024.105273
+
 ### 2024
+Ferreira, S.C.M., Jarquín-Díaz, V.H., **Planillo, A.**, Ďureje, L., Martincová, I., Kramer-Schadt, S., Forslund-Startceva, S.K., and Heitlinger, E. (2024). Eco-evolutionary dynamics of host–microbiome interactions in a natural population of closely related mouse subspecies and their hybrids. ***Proceedings of the Royal Society B***, 291:  20241970. https://doi.org/10.1098/rspb.2024.1970
+
 Drenske, S., Louvrier, J., Grabow, M., Landgraf, C., Kramer-Schadt, S., **Planillo, A.** (2024). Human and predator presence shape diel activity of urban red squirrels. ***Frontiers in Ecology and Evolution***, 12: 1455142. https://doi.org/10.3389/fevo.2024.1455142
 
 Mugerwa, B., Niedballa, J., **Planillo, A.**, Sheil, D., Kramer-Schadt, S., & Wilting, A. (2024). Global disparity of camera trap research allocation and defaunation risk of terrestrial mammals. ***Remote Sensing in Ecology and Conservation***, 10: 121-136. https://doi.org/10.1002/rse2.360
